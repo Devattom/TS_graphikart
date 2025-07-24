@@ -7,7 +7,7 @@
     "strict": true,
     "skipLibCheck": true,
     "outDir": "dist",
-    "files": "src/app.ts",
     "noEmitOnError": true
-  }
+  },
+  "files": ["src/app.ts"]
 }
